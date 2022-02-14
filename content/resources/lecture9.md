@@ -5,7 +5,12 @@ description: This resource includes information on development of quantum mechan
   model
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-763-applied-superconductivity-fall-2005/9a9a90e0f02022bd3c47da9e6dc1a628_lecture9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture9.pdf
+type: OCWFile
 uid: 9a9a90e0-f020-22bd-3c47-da9e6dc1a628
 ---

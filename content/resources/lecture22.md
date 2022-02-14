@@ -4,7 +4,12 @@ description: This resource includes information on introduction to quantum compu
   quantum circuits, and building a quantum computer with superconductors.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-763-applied-superconductivity-fall-2005/e8434e2c2433c34f7adf67ed9408b03f_lecture22.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture22.pdf
+type: OCWFile
 uid: e8434e2c-2433-c34f-7adf-67ed9408b03f
 ---
