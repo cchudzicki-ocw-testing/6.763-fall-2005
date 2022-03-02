@@ -25,7 +25,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Survey of Superconductivity ({{< resource_link 41b28822-32b1-b438-23ec-488969c21b6d "PDF" >}})
+Survey of Superconductivity ({{% resource_link 41b28822-32b1-b438-23ec-488969c21b6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +34,7 @@ Survey of Superconductivity ({{< resource_link 41b28822-32b1-b438-23ec-488969c21
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Perfect Conductivity ({{< resource_link 285aa1ec-51ef-0500-2711-2c396c6eba73 "PDF" >}})
+Perfect Conductivity ({{% resource_link 285aa1ec-51ef-0500-2711-2c396c6eba73 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +43,7 @@ Perfect Conductivity ({{< resource_link 285aa1ec-51ef-0500-2711-2c396c6eba73 "PD
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Magnetoquasistatics ({{< resource_link c3d8449e-93a2-2ef2-f04e-bf245641c5a0 "PDF" >}})
+Magnetoquasistatics ({{% resource_link c3d8449e-93a2-2ef2-f04e-bf245641c5a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +52,7 @@ Magnetoquasistatics ({{< resource_link c3d8449e-93a2-2ef2-f04e-bf245641c5a0 "PDF
 4
 {{< tdclose >}}
 {{< tdopen >}}
-London's Equations ({{< resource_link 9bf5b2be-06b7-e3bd-987f-75ec50934b0c "PDF" >}})
+London's Equations ({{% resource_link 9bf5b2be-06b7-e3bd-987f-75ec50934b0c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +61,7 @@ London's Equations ({{< resource_link 9bf5b2be-06b7-e3bd-987f-75ec50934b0c "PDF"
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Classical Model of a Superconductor ({{< resource_link a3c4179f-7cf3-f234-fd3d-a76048d8420b "PDF" >}})
+Classical Model of a Superconductor ({{% resource_link a3c4179f-7cf3-f234-fd3d-a76048d8420b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +70,7 @@ Classical Model of a Superconductor ({{< resource_link a3c4179f-7cf3-f234-fd3d-a
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Electromagnetic Power ({{< resource_link 638707f1-794c-ce4a-3fc1-3dff1cddbd4d "PDF" >}})
+Electromagnetic Power ({{% resource_link 638707f1-794c-ce4a-3fc1-3dff1cddbd4d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +79,7 @@ Electromagnetic Power ({{< resource_link 638707f1-794c-ce4a-3fc1-3dff1cddbd4d "P
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Transmission Lines ({{< resource_link aa6ca61f-140f-ce31-bf77-961d98105732 "PDF" >}})
+Transmission Lines ({{% resource_link aa6ca61f-140f-ce31-bf77-961d98105732 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +88,7 @@ Transmission Lines ({{< resource_link aa6ca61f-140f-ce31-bf77-961d98105732 "PDF"
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Perfect Diamagnetism ({{< resource_link 9ffc7a93-96e8-95a9-2a04-90e49e9e39ad "PDF" >}})
+Perfect Diamagnetism ({{% resource_link 9ffc7a93-96e8-95a9-2a04-90e49e9e39ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +97,7 @@ Perfect Diamagnetism ({{< resource_link 9ffc7a93-96e8-95a9-2a04-90e49e9e39ad "PD
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Macroscopic Quantum Model ({{< resource_link 9a9a90e0-f020-22bd-3c47-da9e6dc1a628 "PDF - 1.2 MB" >}})
+Macroscopic Quantum Model ({{% resource_link 9a9a90e0-f020-22bd-3c47-da9e6dc1a628 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +106,7 @@ Macroscopic Quantum Model ({{< resource_link 9a9a90e0-f020-22bd-3c47-da9e6dc1a62
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Supercurrent Equation ({{< resource_link 29bb2125-2c2f-d329-3111-508de473d2ac "PDF" >}})
+Supercurrent Equation ({{% resource_link 29bb2125-2c2f-d329-3111-508de473d2ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +115,7 @@ Supercurrent Equation ({{< resource_link 29bb2125-2c2f-d329-3111-508de473d2ac "P
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Josephson Junctions ({{< resource_link bd03c313-db9f-7f52-b37b-202c0fae9e6b "PDF" >}})
+Basic Josephson Junctions ({{% resource_link bd03c313-db9f-7f52-b37b-202c0fae9e6b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ Basic Josephson Junctions ({{< resource_link bd03c313-db9f-7f52-b37b-202c0fae9e6
 12
 {{< tdclose >}}
 {{< tdopen >}}
-SQUIDs ({{< resource_link c485ff65-5dd6-168e-0614-445848899583 "PDF" >}})
+SQUIDs ({{% resource_link c485ff65-5dd6-168e-0614-445848899583 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +133,7 @@ SQUIDs ({{< resource_link c485ff65-5dd6-168e-0614-445848899583 "PDF" >}})
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Generalized Josephson Junctions ({{< resource_link a01d2e47-11c3-445f-86c9-01f8f9053a3e "PDF - 1.6 MB" >}})
+Generalized Josephson Junctions ({{% resource_link a01d2e47-11c3-445f-86c9-01f8f9053a3e "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +142,7 @@ Generalized Josephson Junctions ({{< resource_link a01d2e47-11c3-445f-86c9-01f8f
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Josephson Circuits and Devices I ({{< resource_link 6da92c2d-3e0c-a305-b1e5-6f08ee69f47c "PDF" >}})
+Josephson Circuits and Devices I ({{% resource_link 6da92c2d-3e0c-a305-b1e5-6f08ee69f47c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +151,7 @@ Josephson Circuits and Devices I ({{< resource_link 6da92c2d-3e0c-a305-b1e5-6f08
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Superconducting Digital Circuits ({{< resource_link 3c4c5643-6d34-f840-a127-e55b25aa78a2 "PDF" >}})
+Superconducting Digital Circuits ({{% resource_link 3c4c5643-6d34-f840-a127-e55b25aa78a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +160,7 @@ Superconducting Digital Circuits ({{< resource_link 3c4c5643-6d34-f840-a127-e55b
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Type II Superconductors and Thermo ({{< resource_link 31586553-9c8f-6e35-ab1a-8d5ecd19e5e4 "PDF" >}})
+Type II Superconductors and Thermo ({{% resource_link 31586553-9c8f-6e35-ab1a-8d5ecd19e5e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +169,7 @@ Type II Superconductors and Thermo ({{< resource_link 31586553-9c8f-6e35-ab1a-8d
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Critical Fieds, Flux Flow, Pinning ({{< resource_link be0d5901-756b-873d-f017-d2b34c94d29c "PDF" >}})
+Critical Fieds, Flux Flow, Pinning ({{% resource_link be0d5901-756b-873d-f017-d2b34c94d29c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +178,7 @@ Critical Fieds, Flux Flow, Pinning ({{< resource_link be0d5901-756b-873d-f017-d2
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Ginzburg-Landau Theory ({{< resource_link 5be78fdc-cb3c-ebdb-858d-e63c268a0895 "PDF" >}})
+Ginzburg-Landau Theory ({{% resource_link 5be78fdc-cb3c-ebdb-858d-e63c268a0895 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +187,7 @@ Ginzburg-Landau Theory ({{< resource_link 5be78fdc-cb3c-ebdb-858d-e63c268a0895 "
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Microscopic Interactions and Cooper Problem ({{< resource_link 81df305f-04c0-c64b-b427-b03ea3a88389 "PDF" >}})
+Microscopic Interactions and Cooper Problem ({{% resource_link 81df305f-04c0-c64b-b427-b03ea3a88389 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +214,7 @@ BCS II
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Circuits I ({{< resource_link e8434e2c-2433-c34f-7adf-67ed9408b03f "PDF" >}})
+Quantum Circuits I ({{% resource_link e8434e2c-2433-c34f-7adf-67ed9408b03f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
