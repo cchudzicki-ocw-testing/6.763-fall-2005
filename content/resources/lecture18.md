@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture18.pdf
 uid: 5be78fdc-cb3c-ebdb-858d-e63c268a0895
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

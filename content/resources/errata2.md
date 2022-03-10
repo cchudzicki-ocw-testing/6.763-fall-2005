@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: errata2.pdf
 uid: 70ebfbbc-1155-52ad-7639-b29ee66f37fc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

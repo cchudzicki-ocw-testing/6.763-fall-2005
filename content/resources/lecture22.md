@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lecture22.pdf
 uid: e8434e2c-2433-c34f-7adf-67ed9408b03f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
