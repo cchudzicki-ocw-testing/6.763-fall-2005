@@ -86,9 +86,9 @@ Problem Set 6 ({{% resource_link 77244954-e61d-9734-d241-b9758f3a5f2a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 7 ({{% resource_link c134f495-b75c-af9b-6d86-5bcc504c67c0 "PDF" %}})  
-jj.m ([M](/courses/electrical-engineering-and-computer-science/6-763-applied-superconductivity-fall-2005/assignments/jj.m))  
-jjivh.m ([M](/courses/electrical-engineering-and-computer-science/6-763-applied-superconductivity-fall-2005/assignments/jjivh.m))  
-jjplot.m ([M](/courses/electrical-engineering-and-computer-science/6-763-applied-superconductivity-fall-2005/assignments/jjplot.m))
+jj.m ({{% resource_link 69b0d2ad-457e-b35c-e00c-b05a089ce8fc "M" %}})  
+jjivh.m ({{% resource_link 2f902179-a626-721b-ad80-02c0e14ec043 "M" %}})  
+jjplot.m ({{% resource_link 8817cd74-4550-ad71-b807-4ce809043f57 "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
