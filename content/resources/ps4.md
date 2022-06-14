@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the exercise questions based on the readings.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-763-applied-superconductivity-fall-2005/cdfff64c5274130750044007433fae95_ps4.pdf
+file: /courses/6-763-applied-superconductivity-fall-2005/cdfff64c5274130750044007433fae95_ps4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This file contains the exercise questions based on the readings.

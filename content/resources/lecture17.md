@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on review of vortices, flux flow,
   pinning, and critical state model.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-763-applied-superconductivity-fall-2005/be0d5901756b873df017d2b34c94d29c_lecture17.pdf
+file: /courses/6-763-applied-superconductivity-fall-2005/be0d5901756b873df017d2b34c94d29c_lecture17.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource includes information on review of vortices, flux flow, pinning, and critical state model.

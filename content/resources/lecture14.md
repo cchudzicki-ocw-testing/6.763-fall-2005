@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on RCSJ model review, response to
   DC and AC drives, voltage standard, the DC SQUID, and tunable Josephson Junction.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-763-applied-superconductivity-fall-2005/6da92c2d3e0ca305b1e56f08ee69f47c_lecture14.pdf
+file: /courses/6-763-applied-superconductivity-fall-2005/6da92c2d3e0ca305b1e56f08ee69f47c_lecture14.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource includes information on RCSJ model review, response to DC and AC drives, voltage standard, the DC SQUID, and tunable Josephson Junction.
