@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture notes section contains notes corresponding to the topics covered
+  in the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

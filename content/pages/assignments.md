@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignments section contains the exercises which were due in the course
+  along with supporting matlab files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
