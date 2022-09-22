@@ -5,6 +5,7 @@ file: /courses/6-763-applied-superconductivity-fall-2005/cdfff64c527413075004400
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

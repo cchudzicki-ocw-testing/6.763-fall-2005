@@ -6,6 +6,7 @@ file: /courses/6-763-applied-superconductivity-fall-2005/aa6ca61f140fce31bf77961
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
